@@ -1,5 +1,11 @@
 # rusty_uuid
 
+> **This repository has moved.** `rusty_uuid` now lives at
+> [`crates/rusty_uuid`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_uuid)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 Minimal, dependency-free UUID v4 (random) generation for Rust, per RFC 4122.
 
 ```rust
